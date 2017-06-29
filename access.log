@@ -1,0 +1,13 @@
+09/Jun/2017:18:23:32 -0400,	ClientIp=163.37.57.201,	UserId=rc20090,	RequestTime=0.316 ms,	RequestStatus=200,	RequestURI="GET /uno-api/uno-entitlement/delegations/V2?type=approval HTTP/1.1"
+09/Jun/2017:18:23:32 -0400,	ClientIp=163.37.57.201,	UserId=rc20090,	RequestTime=0.052 ms,	RequestStatus=200,	RequestURI="GET /uno-api/uno-entitlement/delegations/?type=old&limit=20 HTTP/1.1"
+09/Jun/2017:18:23:32 -0400,	ClientIp=163.37.57.201,	UserId=rc20090,	RequestTime=0.316 ms,	RequestStatus=200,	RequestURI="GET /uno-api/uno-entitlement/delegations/V2?type=approval HTTP/1.1"
+09/Jun/2017:18:23:32 -0400,	ClientIp=163.37.57.201,	UserId=rc20090,	RequestTime=0.052 ms,	RequestStatus=200,	RequestURI="GET /uno-api/uno-entitlement/delegations/?type=old&limit=20 HTTP/1.1"
+09/Jun/2017:18:23:32 -0400,	ClientIp=163.37.57.201,	UserId=rc20090,	RequestTime=0.316 ms,	RequestStatus=200,	RequestURI="GET /uno-api/uno-entitlement/delegations/V2?type=approval HTTP/1.1"
+09/Jun/2017:18:23:32 -0400,	ClientIp=163.37.57.201,	UserId=rc20090,	RequestTime=0.052 ms,	RequestStatus=200,	RequestURI="GET /uno-api/uno-entitlement/delegations/?type=old&limit=20 HTTP/1.1"
+09/Jun/2017:18:23:32 -0400,	ClientIp=163.37.57.201,	UserId=rc20090,	RequestTime=0.316 ms,	RequestStatus=200,	RequestURI="GET /uno-api/uno-entitlement/delegations/V2?type=approval HTTP/1.1"
+09/Jun/2017:18:23:32 -0400,	ClientIp=163.37.57.201,	UserId=rc20090,	RequestTime=0.052 ms,	RequestStatus=200,	RequestURI="GET /uno-api/uno-entitlement/delegations/?type=old&limit=20 HTTP/1.1"
+09/Jun/2017:18:23:32 -0400,	ClientIp=163.37.57.201,	UserId=rc20090,	RequestTime=0.052 ms,	RequestStatus=200,	RequestURI="GET /uno-api/uno-entitlement/delegations/?type=old&limit=20 HTTP/1.1"
+
+
+2017/06/09 18:27:37 [error] 7458#7458: *123 connect() failed (111: Connection refused) while connecting to upstream, client: 169.168.26.37, server: sd-16a6-465d.nam.nsroot.net, request: "GET /uno-api/uno-entitlement/delegations/V2?type=archive&limit=20 HTTP/1.1", upstream: "https://169.172.84.105:8082/uno-api/uno-entitlement/delegations/V2?type=archive&limit=20", host: "www.citivelocity.com", referrer: "https://www.citivelocity.com/uno/"
+2017/06/09 18:27:37 [warn] 7458#7458: *123 upstream server temporarily disabled while connecting to upstream, client: 169.168.26.37, server: sd-16a6-465d.nam.nsroot.net, request: "GET /uno-api/uno-entitlement/delegations/V2?type=archive&limit=20 HTTP/1.1", upstream: "https://169.172.84.105:8082/uno-api/uno-entitlement/delegations/V2?type=archive&limit=20", host: "www.citivelocity.com", referrer: "https://www.citivelocity.com/uno/"
