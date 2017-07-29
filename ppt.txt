@@ -3,7 +3,7 @@ Fake mongo
 In-Memory
 Fongo + Untestable -> Testable.
 Fongo + Testable -> Better.
-ìFongo is an in-memory java implementation of MongoDB. It intercepts calls to the standard mongo-java-driver for finds, updates, inserts, removes and other methods. The primary use is for lightweight unit testing where you don't want to spin up a mongod process.î
+‚ÄúFongo is an in-memory java implementation of MongoDB. It intercepts calls to the standard mongo-java-driver for finds, updates, inserts, removes and other methods. The primary use is for lightweight unit testing where you don't want to spin up a mongod process.‚Äù
 
 Fongo doesn't implement all MongoDB functionality.
 Thread safe.
@@ -11,6 +11,6 @@ Essentially a big hash map storage instead of DB files.
 
 Unit Tests : Fast,Isolated,Repeateable, self-verifying, timely
  
-
+https://github.com/clojurians-org/storm-ebook
 
  
